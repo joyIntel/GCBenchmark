@@ -10,5 +10,3 @@
 1.dotnet .\bin\Release\netcoreapp2.0\win7-x64\publish\HelloWorld.dll
 
 
-**Intel Confidential**. This is an internal benchmark for Intel SSG WOS Tools and Runtimes team.
-TODO: Add license.
